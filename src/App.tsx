@@ -6,3 +6,4 @@ export function App() {
   )
 }
 
+// git push ができない　次はpushのやり方から調べ直す
